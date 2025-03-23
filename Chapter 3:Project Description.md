@@ -1,5 +1,5 @@
 
-#Chapter 3: Project Description
+##Chapter 3: Project Description
 #3.1 Introduction
 In order to accomplish the objective and goal of the project which is to find the most
 suited model to detect credit card fraud several steps need to be taken. Finding the most
