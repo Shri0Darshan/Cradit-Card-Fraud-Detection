@@ -1,0 +1,18 @@
+##Conclusion:-
+In conclusion, the main objective of this project was to find the most suited 
+model in credit card fraud detection in terms of the machine learning 
+techniques chosen for the project, and it was met by building the four models 
+and finding the accuracies of them all, the best model in terms of accuracies is 
+logistic regrasion which scored 99.94% with only 51 misclassified instances. I 
+believe that using the model will help in decreasing the amount of credit card 
+fraud and increase the customers satisfaction as it will provide them with better 
+experience in addition to feeling secure.
+
+##Recommendations:-
+There are many ways to improve the model, such as using it on different datasets 
+with various sizes, different data types or by changing the data splitting ratio, in 
+addition to viewing it from different algorithm perspective. An example can be 
+merging telecom data to calculate the location of people to have better knowledge of 
+the location of the card owner while his/her credit card is being used, this will ease 
+the detection because if the card owner is in Dubai and a transaction of his card was 
+made in Abu Dhabi it will easily be detected as fraud. 
